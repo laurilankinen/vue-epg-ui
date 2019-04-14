@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Vue-EPG",
+  "short_name": "Vue-EPG",
+  "version": "com.laurilankinen",
+  "description": "Cordova project to build Vue EPG demo app",
+  "author": "Lauri Lankinen",
+  "icons": [],
+  "start_url": "index.html"
+}
